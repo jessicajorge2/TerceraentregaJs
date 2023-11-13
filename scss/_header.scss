@@ -1,0 +1,30 @@
+@mixin anclas {
+    text-decoration: none;
+    color: $Color-secundarios;
+    font-size: 30px;
+}
+
+.encabezado {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    padding: 10px;
+    height: 100px;
+    font-size: 40px;
+    color: $tituloPrincipal
+ }
+ 
+    h1 {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: flex-end;
+        padding: 10px;
+        height: 100px;
+        font-size: 40px;
+    }
+
+    ul {
+        display: flex;
+    }
+
+   

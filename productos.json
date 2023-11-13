@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "nombre": "Ropa para Niñ@s 1",
+      "descripcion": "Ropa cómoda y moderna para los más pequeños.",
+      "precio": 20.00,
+      "imagen": "../3DA ENTREGA/imagenes/ropa 1.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Ropa para Niñ@s 2",
+      "descripcion": "Ropa cómoda y moderna para los más pequeños.",
+      "precio": 20.00,
+      "imagen": "../3DA ENTREGA/imagenes/ropa 2.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Ropa para Niñ@s 3",
+      "descripcion": "Ropa cómoda y moderna para los más pequeños.",
+      "precio": 20.00,
+      "imagen": "../3DA ENTREGA/imagenes/ropa 3.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Ropa para Niñ@s 4",
+      "descripcion": "Ropa cómoda y moderna para los más pequeños.",
+      "precio": 20.00,
+      "imagen": "../3DA ENTREGA/imagenes/ropa 4.jpg"
+    }
+  ]
+  
